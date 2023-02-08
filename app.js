@@ -83,9 +83,29 @@
 //     fullname.toUpperCase()
 // )
 
-let firstname = "Ankit"
+// let firstname = "Ankit"
 
-console.log(firstname.toUpperCase())
+// console.log(firstname.toUpperCase())
 
-// this will convert all strings into lowercase 
-console.log(firstname.toLowerCase())
+// // this will convert all strings into lowercase 
+// console.log(firstname.toLowerCase())
+
+// Never trust the user what will he or she will enter in input
+let name1 = 'aNKIt';
+let name2 = '   ankit     '
+
+// // let looking = name1.charAt(0).toUpperCase()
+
+// // by useing slice function we can slice any string 
+// console.log(name1.slice(1))
+
+
+// // The charAt() method returns the character at a specified index (position) in a string.
+// let main_output =  `${name1.charAt(0).toUpperCase()}${name1.slice(1).toLowerCase()}`
+
+
+// console.log(main_output)
+
+// if user input spaces in input then we can use trim to make it clear 
+// it will clear the spaces in start and end of the string 
+console.log(name2.trim())
