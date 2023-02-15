@@ -27,7 +27,7 @@
 // console.log(numb2 + numb1++); // postfix
 // console.log(numb1)
 
-// This code will return boolean true or false 
+// This code will return boolean true or false
 // console.log(numb1 >= numb2)
 // console.log(numb1 == numb2)
 // console.log(numb1 === numb2)
@@ -36,21 +36,21 @@
 // let b = numb1 != numb2;
 // console.log(b)
 
-// //This is turnary opratore 
+// //This is turnary opratore
 // numb1 === numb2 ? console.log("done") : console.log("not done")
 
 
 // let age = 10;
 // let citizen = "india";
-// && is and opratore it will check both the condition and then give response ad true 
+// && is and opratore it will check both the condition and then give response ad true
 // let canvote = age >= 18 && citizen == "indian" ? "can vote" : "can not vote";
 // console.log(canvote)
-// || is or opratore it will check both the condition and if any one condition is true it will reture the value of ture or false 
+// || is or opratore it will check both the condition and if any one condition is true it will reture the value of ture or false
 // let canvote = age >= 18 || citizen == 'indian' ? "can vote" : "can not vote "
 // console.log(canvote)
 
 
-// // This is object whiche has key and value 
+// // This is object whiche has key and value
 // let user = {
 //     name:"ankit",
 //     country:"india",
@@ -77,13 +77,13 @@
 // // This will only work with ``  this. this will not work with "" or ''
 // console.log(`I am ${firstname} ${surname}`)
 
-// if wee want ot add "" in string then we have to use \ for that for eg \"Indian"\ 
-// if you are using '' then you can use "" in that 
+// if wee want ot add "" in string then we have to use \ for that for eg \"Indian"\
+// if you are using '' then you can use "" in that
 // let name = "Ankit is an \"Indian\"."
 // console.log(name)
 
 
-// if we want to print something in next line the we can use \n to print string after \n to print in next line 
+// if we want to print something in next line the we can use \n to print string after \n to print in next line
 // let fullname = "Ankit is an \nIndian."
 // console.log(fullname)
 
@@ -96,7 +96,7 @@
 
 // console.log(firstname.toUpperCase())
 
-// // this will convert all strings into lowercase 
+// // this will convert all strings into lowercase
 // console.log(firstname.toLowerCase())
 
 // // Never trust the user what will he or she will enter in input
@@ -105,7 +105,7 @@
 
 // // let looking = name1.charAt(0).toUpperCase()
 
-// // by useing slice function we can slice any string 
+// // by useing slice function we can slice any string
 // console.log(name1.slice(1))
 
 
@@ -115,6 +115,6 @@
 
 // console.log(main_output)
 
-// // if user input spaces in input then we can use trim to make it clear 
-// // it will clear the spaces in start and end of the string 
+// // if user input spaces in input then we can use trim to make it clear
+// // it will clear the spaces in start and end of the string
 // console.log(name2.trim())

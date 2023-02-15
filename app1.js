@@ -16,14 +16,15 @@
 
 
 
-// let userData = {
-//     fullName :"ankit singh",
-//     country :"india",
-//     age:23,
-//     Gender : "male"
-// }
+let userData = {
+    fullName :"ankit singh",
+    country :"india",
+    age:23,
+    Gender : "male"
+}
 
 
-// console.log(`Name is ${userData.fullName.toUpperCase()}`)
+console.log(`Name is ${userData.fullName.toUpperCase()}`)
+console.log(user)
 
 
